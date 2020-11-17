@@ -17,7 +17,7 @@ Activate the environment
 source .venv/bin/activate
 
 # windows:
-.venve\Scripts\activate
+.venv\Scripts\activate
 ```
 Install the requirements
 ```shell script
