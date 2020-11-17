@@ -32,7 +32,7 @@ python src/lobe_tf_to_tfjs.py path/to/exported/model --output_dir=path/to/desire
 The first argument to the converter is the path to your exported Lobe TensorFlow saved model.
 
 Optionally, you can give the --output_dir argument of where you would like the TensorFlow.js model to be saved.
-If you don't provide this argument, it will be saved inside of you input saved model directory as `tensorflowjs_model/`.
+If you don't provide this argument, it will be saved inside of your input saved model directory as `tensorflowjs_model/`.
 
 
 ## How to run TensorFlow.js model
